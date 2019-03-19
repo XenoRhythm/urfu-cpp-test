@@ -10,6 +10,7 @@ int main()
 {
 	PrintName();
 	std::cout << "Some cool new text that totally change program" << std::endl;
+	std::cout << "Some cooler new text that totally change program again" << std::endl;
 	std::cout << "Enter any key to exit..." << std::endl;
 	std::getchar();
 	return 0;
